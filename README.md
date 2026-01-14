@@ -21,7 +21,9 @@ Colección de proyectos desarrollados con HTML5 y CSS3, enfocados en maquetació
 
 .Estilos claros y organizados con CSS
 
-(Opcional: agregar imagen)
+![Balance Sheet](./images/balance-sheet.png)
+
+
 
 
 📰 #Building a Magazine
@@ -34,7 +36,8 @@ Colección de proyectos desarrollados con HTML5 y CSS3, enfocados en maquetació
 
 .Organización visual del contenido con CSS
 
-(Opcional: agregar imagen)
+![Magazine](./images/Magazine.png)
+
 
 
 🥗 #Building a Nutritional Label
@@ -47,7 +50,7 @@ Colección de proyectos desarrollados con HTML5 y CSS3, enfocados en maquetació
 
 .Uso semántico de HTML y estilos CSS
 
-(Opcional: agregar imagen)
+![Nutritional Label](./images/Nutrional-label.png)
 
 
 🐧 #Building a Penguin
@@ -60,7 +63,7 @@ Colección de proyectos desarrollados con HTML5 y CSS3, enfocados en maquetació
 
 .Shapes, colores y diseño visual
 
-(Opcional: agregar imagen)
+![Penguin](./images/penguin.png)
 
 
 📝 #Building a Registration Form
@@ -73,4 +76,6 @@ Colección de proyectos desarrollados con HTML5 y CSS3, enfocados en maquetació
 
 .Estilos limpios y funcionales con CSS
 
-(Opcional: agregar imagen)
+![Registration Form](./images/Registration-form.png)
+
+
